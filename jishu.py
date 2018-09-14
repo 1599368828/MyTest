@@ -16,3 +16,4 @@ while True:
 print(sum)
 test
 test1
+测试合并策略

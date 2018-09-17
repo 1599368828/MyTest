@@ -14,8 +14,3 @@ while True:
      sum=sum-start
    start +=1
 print(sum)
-test
-test1
-ceshi bugxiufu
-asdasd
-asdasdasddfg

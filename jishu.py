@@ -13,5 +13,4 @@ while True:
    if start%2 ==0:
      sum=sum-start
    start +=1
-print(sum)
-ceshi
+liky

@@ -14,3 +14,4 @@ while True:
      sum=sum-start
    start +=1
 liky
+liky
